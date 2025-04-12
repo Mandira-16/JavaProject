@@ -113,7 +113,7 @@
 
 | Name                           | Student ID  |
 |--------------------------------|-------------|
-| Dinura Mendis                  | 10952757    |
+| Senesh Fitzroy                 | 10952757    |
 | Ruwanpathiranage De Silva      | 10952854    |
 | Manikkuge Premarathna          | 10953312    |
 | Suraweera Premakumara          | 10952849    |
@@ -150,5 +150,4 @@ This project is licensed under the [MIT License](LICENSE) © 2025 Group A, Plymo
 
 > 💡 *Feel the thrill before the reel!*  
 > 🧑‍💻 Developed with 💖 by Filmor Dev Team.
-
 ```
